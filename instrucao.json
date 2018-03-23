@@ -1,9 +1,16 @@
 [
 	{
 		"moeda" : "TRXBTC",
-		"compra" : 0.00000201,
-		"venda" : 0.00000202,
+		"compra" : 0.00000200,
+		"venda" : 0.00000201,
 		"taxa" : 0.001,
-		"nomeRobo" : "TRXBTC"
+		"nomeRobo" : "TRXBTC 200-201"
+	},
+	{
+		"moeda" : "NCASHBTC",
+		"compra" : 0.00000200,
+		"venda" : 0.00000201,
+		"taxa" : 0.001,
+		"nomeRobo" : "NCASHBTC 200-201"
 	}
 ]
