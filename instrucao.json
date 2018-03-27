@@ -5,7 +5,7 @@
 		"venda" : 0.00000520,
 		"taxa" : 0.001,
 		"nomeRobo" : "TRXBTC 518-520",
-		"esperaEntreTrade": 600000
+		"esperaEntreTrade": 300000
 	},
 	{
 		"moeda" : "XRPBTC",
@@ -13,6 +13,6 @@
 		"venda" : 0.00007172,
 		"taxa" : 0.001,
 		"nomeRobo" : "XRPBTC 7157-7172",
-		"esperaEntreTrade": 600000
+		"esperaEntreTrade": 300000
 	}
 ]
