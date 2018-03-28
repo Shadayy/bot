@@ -30,5 +30,13 @@
 		"taxa" : 0.001,
 		"nomeRobo" : "XVGBTC 513-514",
 		"esperaEntreTrade": 300000
+	},
+	{
+		"moeda" : "STORMBTC",
+		"compra" : 0.00000514,
+		"venda" : 0.00000516,
+		"taxa" : 0.001,
+		"nomeRobo" : "STORMBTC 514-516",
+		"esperaEntreTrade": 150000
 	}
 ]
