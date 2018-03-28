@@ -1,18 +1,34 @@
 [
 	{
 		"moeda" : "TRXBTC",
-		"compra" : 0.00000518,
-		"venda" : 0.00000520,
+		"compra" : 0.00000560,
+		"venda" : 0.00000562,
 		"taxa" : 0.001,
 		"nomeRobo" : "TRXBTC 518-520",
 		"esperaEntreTrade": 300000
 	},
 	{
-		"moeda" : "XRPBTC",
-		"compra" : 0.00007157,
-		"venda" : 0.00007172,
+		"moeda" : "IOSTBTC",
+		"compra" : 0.00000304,
+		"venda" : 0.00000306,
 		"taxa" : 0.001,
-		"nomeRobo" : "XRPBTC 7157-7172",
+		"nomeRobo" : "IOSTBTC 304-306",
+		"esperaEntreTrade": 300000
+	},
+	{
+		"moeda" : "NCASHBTC",
+		"compra" : 0.00000396,
+		"venda" : 0.00000397,
+		"taxa" : 0.001,
+		"nomeRobo" : "NCASHBTC 396-397",
+		"esperaEntreTrade": 300000
+	},
+	{
+		"moeda" : "XVGBTC",
+		"compra" : 0.00000513,
+		"venda" : 0.00000514,
+		"taxa" : 0.001,
+		"nomeRobo" : "XVGBTC 513-514",
 		"esperaEntreTrade": 300000
 	}
 ]
