@@ -9,8 +9,8 @@
 	},
 	{
 		"moeda" : "IOSTBTC",
-		"compra" : 0.00000337,
-		"venda" : 0.00000338,
+		"compra" : 0.00000331,
+		"venda" : 0.00000332,
 		"taxa" : 0.001,
 		"nomeRobo" : "IOSTBTC 337-338",
 		"esperaEntreTrade": 300000
