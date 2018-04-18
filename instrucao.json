@@ -1,3 +1,9 @@
 [
-	
+	{
+		"moeda" : "IOSTBTC",
+		"compra" : 0.00000438,
+		"venda" : 0.00000439,
+		"taxa" : 0.001,
+		"esperaEntreTrade": 1
+	}
 ]
