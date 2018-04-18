@@ -1,37 +1,3 @@
 [
-	{
-		"moeda" : "TRXBTC",
-		"compra" : 0.00000523,
-		"venda" : 0.00000524,
-		"taxa" : 0.001,
-		"esperaEntreTrade": 150000
-	},
-	{
-		"moeda" : "IOSTBTC",
-		"compra" : 0.00000458,
-		"venda" : 0.00000459,
-		"taxa" : 0.001,
-		"esperaEntreTrade": 150000
-	},
-	{
-		"moeda" : "POEBTC",
-		"compra" : 0.00000522,
-		"venda" : 0.00000523,
-		"taxa" : 0.001,
-		"esperaEntreTrade": 150000
-	},
-	{
-		"moeda" : "STORMBTC",
-		"compra" : 0.00000464,
-		"venda" : 0.00000465,
-		"taxa" : 0.001,
-		"esperaEntreTrade": 150000
-	},
-	{
-		"moeda" : "NCASHBTC",
-		"compra" : 0.00000527,
-		"venda" : 0.00000528,
-		"taxa" : 0.001,
-		"esperaEntreTrade": 150000
-	}
+	
 ]
