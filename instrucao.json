@@ -7,9 +7,9 @@
 		"esperaEntreTrade": 1
 	},
 	{
-		"moeda" : "XVGBTC",
-		"compra" : 0.00000479,
-		"venda" : 0.00000480,
+		"moeda" : "NCASHBTC",
+		"compra" : 0.00000476,
+		"venda" : 0.00000478,
 		"taxa" : 0.001,
 		"esperaEntreTrade": 1
 	}
