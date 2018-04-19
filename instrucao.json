@@ -1,8 +1,15 @@
 [
 	{
 		"moeda" : "XVGBTC",
-		"compra" : 0.00000838,
-		"venda" : 0.00000840,
+		"compra" : 0.00000850,
+		"venda" : 0.00000855,
+		"taxa" : 0.001,
+		"esperaEntreTrade": 1
+	},
+	{
+		"moeda" : "XVGBTC",
+		"compra" : 0.00000479,
+		"venda" : 0.00000480,
 		"taxa" : 0.001,
 		"esperaEntreTrade": 1
 	}
