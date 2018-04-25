@@ -3,7 +3,6 @@
 		"moeda" : "TRXBTC",
 		"compra" : 0.00000756,
 		"venda" : 0.00000758,
-		"taxa" : 0.001,
-		"esperaEntreTrade": 1
+		"taxa" : 0.001
 	}
 ]
